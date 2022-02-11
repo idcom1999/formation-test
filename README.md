@@ -1,0 +1,1 @@
+un système de gestion de versions comme Git améliorera la qualité des travaux de groupe en permettant d'assigner des taches differentes a chaque menbre du groupe pour ensuite puis ensuite réunir les travaux en un seul grace a git
